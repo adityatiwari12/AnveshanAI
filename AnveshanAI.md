@@ -22,7 +22,7 @@ To automate the process of identifying and matching missing persons using comput
 - **Database**: MongoDB Atlas
 - **Tools**: Axios, CORS, Socket.io
 
-## Workflow
+## 📝 Workflow
 ![workflow](workflow.jpg)
 
 ## 🏗 High-Level Design (HLD)
@@ -67,7 +67,7 @@ $ streamlit run main.py
 $ npm install
 $ npm start
 ```
-## Mordern World Applications
+## 🌐 Mordern World Applications
 - How many people go missing each year?
 Missing people: of the 170,000 people reported missing nearly 98,000 are adults and more than 70,000 are children
 Missing incidents: of the 353,000 reported incidents, more than 137,000 incidents are adults and almost 215,000 incidents are children
