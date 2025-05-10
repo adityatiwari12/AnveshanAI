@@ -23,7 +23,7 @@ To automate the process of identifying and matching missing persons using comput
 - **Tools**: Axios, CORS, Socket.io
 
 ## Workflow
-![workflow](workflow.png)
+![workflow](workflow.jpg)
 
 ## 🏗 High-Level Design (HLD)
 ![High Level Design](lld.svg)
