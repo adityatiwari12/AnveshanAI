@@ -26,10 +26,10 @@ To automate the process of identifying and matching missing persons using comput
 ![workflow](workflow.png)
 
 ## 🏗 High-Level Design (HLD)
-![High Level Design](hld.png)
+![High Level Design](lld.svg)
 
 ## 🏗 Low-level Design (LLD)
-![Screenshot](lld.svg)
+![Screenshot](hld.png)
 
 ## 🔁 User Flow
 1. User uploads photo and details of a lost/found person
