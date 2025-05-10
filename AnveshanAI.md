@@ -22,6 +22,9 @@ To automate the process of identifying and matching missing persons using comput
 - **Database**: MongoDB Atlas
 - **Tools**: Axios, CORS, Socket.io
 
+## Workflow
+![workflow](workflow.png)
+
 ## 🏗 High-Level Design (HLD)
 ![High Level Design](hld.png)
 
@@ -44,23 +47,26 @@ To automate the process of identifying and matching missing persons using comput
 ## 🎥 Demo Video
 
 ## ⚙️ Installation
-- $ git clone https://github.com/garvitbatra02/Face_recognition_Finding_missing_people
+```$ git clone https://github.com/garvitbatra02/Face_recognition_Finding_missing_people ```
 
 - In Node-js server MS
+```
 $ npm install
 $ node index.js
-
+```
 - In face_recognition
+```
 $ pip install virtualenv
 $ virtualenv <my_env_name>
 $ source <my_env_name>/bin/activate
 $ pip install -r requirements.txt
 $ streamlit run main.py
-
+```
 - In Frontend/frontend MS/msfrontend
+```
 $ npm install
 $ npm start
-
+```
 ## Mordern World Applications
 - How many people go missing each year?
 Missing people: of the 170,000 people reported missing nearly 98,000 are adults and more than 70,000 are children
