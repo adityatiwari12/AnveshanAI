@@ -67,6 +67,18 @@ $ streamlit run main.py
 $ npm install
 $ npm start
 ```
+
+## AI Pipeline
+- face_recognition library
+  Uses Resnet-34 base Convolutional Neural Network and provides face encoding consisting 128 dimensional embedding vector from image. This face encoding
+  is stored in the memory for pre-processing further.
+- openCV library
+  It acts as a pre-processing engine and provides the following feature:
+  1. Image Normalization - Converting image (RGB) into grayscale
+  2. Noise Handling - Gaussian Filtering is an in-built feature in opencv which is utilised to fix blurred images.
+  3. Face Cropping - Using the feature Haar Cascades for face cropping.
+  4. Webcam Integration - Enables live face capturing and direct comparision using cv2.videocaptures.
+ 
 ## 🌐 Mordern World Applications
 - How many people go missing each year?
 Missing people: of the 170,000 people reported missing nearly 98,000 are adults and more than 70,000 are children
