@@ -23,9 +23,10 @@ To automate the process of identifying and matching missing persons using comput
 - **Tools**: Axios, CORS, Socket.io
 
 ## 🏗 High-Level Design (HLD)
-![High Level Design](97097968-6740-4c41-a934-cd625b275c0c%20(2).svg)
+![High Level Design](hld.png)
 
-![Screenshot](Screenshot%202025-05-10%20162821.png)
+## 🏗 Low-level Design (LLD)
+![Screenshot](lld.svg)
 
 ## 🔁 User Flow
 1. User uploads photo and details of a lost/found person
