@@ -44,7 +44,7 @@ To automate the process of identifying and matching missing persons using comput
 - Registration Desk
   ![form](form.jpg)
 - Survilliance UI
-  ![SurvillianceUI](survillience.jpg)
+  ![SurvillianceUI](survillienceUI.jpg)
 - Survilliance
   ![Survilliance](survi.jpg)
 - Missing people list
