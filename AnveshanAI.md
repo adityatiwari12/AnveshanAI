@@ -40,10 +40,19 @@ To automate the process of identifying and matching missing persons using comput
 
 ## 📸 Screenshots 
 - Home Page
+  ![Home-page](home.jpg)
 - Registration Desk
+  ![form](form.jpg)
 - Survilliance UI
-- Survilliance 
+  ![SurvillianceUI](survillience.jpg)
+- Survilliance
+  ![Survilliance](survi.jpg)
 - Missing people list
+  ![Missing](missing.jpg)
+- Location Tracking
+  ![locations](locations.jpg)
+- Further Process
+  ![process](process.jpg)
 ## 🎥 Demo Video
 
 ## ⚙️ Installation
