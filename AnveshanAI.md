@@ -46,7 +46,6 @@ To automate the process of identifying and matching missing persons using comput
 - Survilliance UI
   ![SurvillianceUI](survillience.jpg)
 - Survilliance
-  ![SurvillianceUI](survillience.jpg)
   ![Survilliance](survi.jpg)
 - Missing people list
   ![Missing](missing.jpg)
